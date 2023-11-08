@@ -4,13 +4,13 @@ Hi 👋 My name is Kelly
 Front-End Developer
 -------------------
 
-Hello! I'm Kelly, and I've been passionate about computers and logic-based challenges since I was a child. My journey into programming began back in primary school when I discovered that the world of code held endless possibilities for creating and solving problems.
-I'm a beginner front-end developer, eager to take on new challenges and kick-start my career in this field. Currently, I'm working on honing my skills as a freelancer, but I'm also open to job offers that will allow me to gain experience and grow as a developer.
-I have a strong affinity for JavaScript frameworks, with React.JS being one of my favorites. My goal is to build applications that are not only aesthetically pleasing but also intuitive for users because simplicity in user experience is of utmost importance to me.
+Hello! I'm Kelly, and I've been passionate about computers and logic-based challenges since I was a child. My journey into programming began back in primary school when I discovered that the world of code held endless possibilities for creating and solving problems.<br />
+I'm a beginner front-end developer, eager to take on new challenges and kick-start my career in this field. Currently, I'm working on honing my skills as a freelancer, but I'm also open to job offers that will allow me to gain experience and grow as a developer.<br />
+I have a strong affinity for JavaScript frameworks, with React.JS being one of my favorites. My goal is to build applications that are not only aesthetically pleasing but also intuitive for users because simplicity in user experience is of utmost importance to me.<br />
 In my coding journey so far, I've worked on various home-based projects, including plans to create a social media platform based on the ActivityPub plugin. However, I've come to realize that it's a massive undertaking for a solo developer, so I continue to expand my skills to prepare for future challenges.
-I actively engage in the programming community and contribute to open-source projects, learning from others and sharing my knowledge in return.
-My main aim is to secure a stable job in the industry that will allow me to grow as a developer and aim for even greater achievements. While I may not hold official certifications at the moment, I'm dedicated to learning daily and enhancing my skills through free courses and practical experience.
-If you'd like to get in touch with me or keep up with my achievements, feel free to visit my LinkedIn profile. Perhaps, more information about my projects and experiences will appear there in the future.
+I actively engage in the programming community and contribute to open-source projects, learning from others and sharing my knowledge in return.<br />
+My main aim is to secure a stable job in the industry that will allow me to grow as a developer and aim for even greater achievements. While I may not hold official certifications at the moment, I'm dedicated to learning daily and enhancing my skills through free courses and practical experience.<br />
+If you'd like to get in touch with me or keep up with my achievements, feel free to visit my LinkedIn profile. Perhaps, more information about my projects and experiences will appear there in the future.<br />
 Thank you for visiting my GitHub profile, and I'm excited to explore the world of front-end development and web application creation together!
 
 * 🌍  I'm based in Poland
